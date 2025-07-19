@@ -53,7 +53,6 @@
 
 ### 📌 Featured Repositories
 
-Make sure to pin these in your GitHub profile:
 - 📌 [BlogApp](https://github.com/manudevtyagi05/blog-app-backend)
 - 📌 [Clothes-Donation-And-Management](https://github.com/manudevtyagi05/Clothes-Donation-and-Management)
 - 📌 [CHAT-APP](https://github.com/manudevtyagi05/CHAT-APP)
