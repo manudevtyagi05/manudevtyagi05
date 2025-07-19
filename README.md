@@ -70,7 +70,7 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 Email: manudevtyagi@gmail.com  
+- 📧 Email: manudevtyagi1213@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/manudevtyagi05](https://www.linkedin.com/in/manudevtyagi05)
 - 💻 GitHub: [github.com/manudevtyagi05](https://github.com/manudevtyagi05)
 
