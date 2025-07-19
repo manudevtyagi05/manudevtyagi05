@@ -8,7 +8,7 @@
 - 🎓 I'm a Computer Science graduate passionate about backend development
 - 🌱 Currently learning **Spring Boot**, **Hibernate**, **MySQL**, and **RESTful APIs**
 - 💼 Actively working on **Java Backend Projects** like **Blog Management System** and **Online Banking System**
-- 📫 Reach me at **manutyagi750@gmail.com**
+- 📫 Reach me at **manudevtyagi1213@gmail.com**
 - 🧠 Constantly learning and improving through hands-on projects
 - 🤝 Looking to collaborate on Java + Spring Boot open-source projects
 
