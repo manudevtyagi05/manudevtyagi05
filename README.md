@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manu Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Manu Dev Tyagi</h1>
 <h3 align="center">Aspiring Java Backend Developer | Passionate about Building Scalable REST APIs</h3>
 
 ---
@@ -26,7 +26,7 @@
 
 ### 💼 Projects
 
-#### 🚀 [Blog Management System](https://github.com/manudevtyagi05/BlogApp)
+#### 🚀 [Blog Management System](https://github.com/manudevtyagi05/blog-app-backend)
 > REST API for managing users, posts, categories, and comments. Built using Spring Boot and MySQL.
 
 - User Registration & Login
