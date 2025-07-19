@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Java, SQL  
+- 💻 **Languages**: Java, SQL, JavaScript  
 - 🌐 **Backend**: Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
 - 🗄️ **Database**: MySQL, JDBC  
 - 🔗 **Tools**: Git, GitHub, Postman, IntelliJ IDEA  
@@ -35,10 +35,10 @@
 - API Validation and Exception Handling
 - Project tested with Postman
 
-#### 🏦 [Online Banking System API (Coming Soon...)](https://github.com/manudevtyagi05) *(Coming Soon)*  
+#### 🏦 [Online Banking System API](https://github.com/manudevtyagi05) *(Coming Soon)*  
 > A backend API for managing user accounts, transactions, and balances. Focus on modular design and security.
 
-#### 📚 [DSA Practice Repository (Coming Soon...)](https://github.com/manudevtyagi05/Data-Structures-and-Algorithms)
+#### 📚 [DSA Practice Repository](https://github.com/manudevtyagi05/Data-Structures-and-Algorithms)  *(Coming Soon)*
 > Practicing data structures and algorithms in Java with clean and optimized code.
 
 ---
@@ -55,7 +55,7 @@
 
 Make sure to pin these in your GitHub profile:
 - 📌 [BlogApp](https://github.com/manudevtyagi05/BlogApp)
-- 📌 [Data-Structures-and-Algorithms](https://github.com/manudevtyagi05/Data-Structures-and-Algorithms)
+- 📌 [Data-Structures-and-Algorithms](https://github.com/manudevtyagi05/Data-Structures-and-Algorithms) *(Once ready)*
 - 📌 [Online-Banking-API](https://github.com/manudevtyagi05) *(Once ready)*
 
 ---
@@ -72,7 +72,7 @@ Make sure to pin these in your GitHub profile:
 ### 📫 Let’s Connect!
 
 - 📧 Email: manudevtyagi@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/manudevtyagi05]   (https://www.linkedin.com/in/manudevtyagi05)
+- 💼 LinkedIn: [linkedin.com/in/manudevtyagi05](https://www.linkedin.com/in/manudevtyagi05)
 - 💻 GitHub: [github.com/manudevtyagi05](https://github.com/manudevtyagi05)
 
 ---
