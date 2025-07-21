@@ -35,12 +35,8 @@
 - API Validation and Exception Handling
 - Project tested with Postman
 
-#### 🏦 [Online Banking System API](https://github.com/manudevtyagi05) *(Coming Soon)*  
+#### 🏦 [ecommerce-product-api](https://github.com/manudevtyagi05/-ecommerce-product-api)  
 > A backend API for managing user accounts, transactions, and balances. Focus on modular design and security.
-
-#### 📚 [DSA Practice Repository](https://github.com/manudevtyagi05/Data-Structures-and-Algorithms)  *(Coming Soon)*
-> Practicing data structures and algorithms in Java with clean and optimized code.
-
 ---
 
 ### 📊 GitHub Stats
@@ -54,6 +50,7 @@
 ### 📌 Featured Repositories
 
 - 📌 [BlogApp](https://github.com/manudevtyagi05/blog-app-backend)
+- 📌 [ecommerce-product-api](https://github.com/manudevtyagi05/-ecommerce-product-api) 
 - 📌 [Clothes-Donation-And-Management](https://github.com/manudevtyagi05/Clothes-Donation-and-Management)
 - 📌 [CHAT-APP](https://github.com/manudevtyagi05/CHAT-APP)
 
