@@ -35,8 +35,13 @@
 - API Validation and Exception Handling
 - Project tested with Postman
 
-#### 🏦 [ecommerce-product-api](https://github.com/manudevtyagi05/-ecommerce-product-api)  
-> A backend API for managing user accounts, transactions, and balances. Focus on modular design and security.
+#### 🛒 [E-Commerce Product Management API](https://github.com/manudevtyagi05/-ecommerce-product-api)
+> REST API to manage products and categories in an e-commerce setup.
+
+- Add, update, delete, and fetch products
+- Fetch products by category
+- Clean code structure with DTOs and service layers
+- Spring Boot, MySQL, and tested with Postman
 ---
 
 ### 📊 GitHub Stats
