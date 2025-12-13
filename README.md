@@ -16,10 +16,10 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Java, SQL, JavaScript  
-- 🌐 **Backend**: Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
-- 🗄️ **Database**: MySQL, JDBC  
-- 🔗 **Tools**: Git, GitHub, Postman, IntelliJ IDEA  
+- 💻 **Languages**: Java, Python,JavaScript ,TypeScript , SQL
+- 🌐 **Backend**: Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- 🗄️ **Database**: MySQL, JDBC
+- 🔗 **Tools**: Git, GitHub, Postman, IntelliJ IDEA
 - 🧪 **Testing**: JUnit (basics), Validation with Bean Validation (JSR-303)
 
 ---
@@ -27,6 +27,7 @@
 ### 💼 Projects
 
 #### 🚀 [Blog Management System](https://github.com/manudevtyagi05/blog-app-backend)
+
 > REST API for managing users, posts, categories, and comments. Built using Spring Boot and MySQL.
 
 - User Registration & Login
@@ -35,13 +36,16 @@
 - API Validation and Exception Handling
 - Project tested with Postman
 
-#### 🛒 [E-Commerce Product Management API](https://github.com/manudevtyagi05/-ecommerce-product-api)
-> REST API to manage products and categories in an e-commerce setup.
+#### 👥 [Team Engagement Platform Backend](https://github.com/manudevtyagi05/Team-Engagement-Platform-Backend)
 
-- Add, update, delete, and fetch products
-- Fetch products by category
-- Clean code structure with DTOs and service layers
+> Backend REST API for managing teams, projects, tasks, and member engagement. Built with Spring Boot and MySQL.
+
+- Team & member management
+- Project and task CRUD
+- Activity feeds and engagement metrics
+- Role-based permissions & DTO-driven design
 - Spring Boot, MySQL, and tested with Postman
+
 ---
 
 ### 📊 GitHub Stats
@@ -55,7 +59,7 @@
 ### 📌 Featured Repositories
 
 - 📌 [BlogApp](https://github.com/manudevtyagi05/blog-app-backend)
-- 📌 [ecommerce-product-api](https://github.com/manudevtyagi05/-ecommerce-product-api) 
+- 📌 [ecommerce-product-api](https://github.com/manudevtyagi05/-ecommerce-product-api)
 - 📌 [Clothes-Donation-And-Management](https://github.com/manudevtyagi05/Clothes-Donation-and-Management)
 - 📌 [CHAT-APP](https://github.com/manudevtyagi05/CHAT-APP)
 
@@ -72,7 +76,7 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 Email: manudevtyagi1213@gmail.com  
+- 📧 Email: manudevtyagi1213@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/manudevtyagi05](https://www.linkedin.com/in/manudevtyagi05)
 - 💻 GitHub: [github.com/manudevtyagi05](https://github.com/manudevtyagi05)
 
