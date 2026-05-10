@@ -1,87 +1,154 @@
-# Hi 👋, I'm Manu Dev Tyagi
+<div align="center">
 
-### Python Backend Developer · AI Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manu%20Dev%20Tyagi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%C2%B7%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-> Building production-grade REST APIs and AI-powered applications with FastAPI, LangChain, and LangGraph.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+REST+APIs+%F0%9F%9A%80;LangChain+%7C+LangGraph+%7C+RAG+Pipelines+%F0%9F%A4%96;FastAPI+%7C+Docker+%7C+Vector+Search+%F0%9F%94%8D;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science — BTU Bikaner (Graduated June 2025)
-- 💼 Backend Intern @ **ARCKAI** (Healthcare Tech) — building EHR REST APIs with FastAPI & Pydantic
-- 🤖 Focused on **GenAI integration**, RAG pipelines, and LangGraph-based agent architectures
-- 🌱 Currently deepening expertise in **multi-agent systems** and **vector search**
-- 📍 Sikar, Rajasthan
-- 📫 Reach me at **manudevtyagi1213@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-**Languages**
-`Python` `SQL` `Java`
+```python
+class ManuDevTyagi:
+    location   = "Sikar, Rajasthan 🇮🇳"
+    role       = "Python Backend Developer · AI Engineer"
+    education  = "B.Tech CSE — BTU Bikaner (2025)"
+    currently  = "Backend Intern @ ARCKAI (Healthcare Tech, Gurugram)"
+    interests  = ["GenAI Integration", "RAG Pipelines", "Multi-Agent Systems", "API Design"]
+    ask_me     = ["FastAPI", "LangChain", "LangGraph", "Vector DBs", "Docker"]
+    contact    = "manudevtyagi1213@gmail.com"
+```
 
-**Backend**
-`FastAPI` `REST API Design` `Async APIs` `Pydantic` `SQLAlchemy` `Alembic` `Uvicorn`
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Databases**
+
+[![Skills](https://skillicons.dev/icons?i=python,java,postgres,mysql,sqlite)](https://skillicons.dev)
+
+**Backend & DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=fastapi,docker,redis,git,github,postman)](https://skillicons.dev)
 
 **AI / GenAI**
-`LangChain` `LangGraph` `RAG Pipelines` `Vector Embeddings` `Qdrant` `Ollama` `Hugging Face`
 
-**Databases**
-`PostgreSQL` `MySQL` `SQLite`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)&nbsp;
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)&nbsp;
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)&nbsp;
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 
-**Infrastructure**
-`Docker` `Docker Compose` `Redis` `Celery`
+**Libraries & Tools**
 
-**Tools**
-`Git` `GitHub` `Postman` `Swagger / OpenAPI` `Cursor`
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)&nbsp;
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logoColor=white)
 
----
-
-### 💼 Featured Projects
-
-#### 🤖 [AI-Powered Job Application Tracker](https://github.com/manudevtyagi05/ai-job-tracker)
-> FastAPI · PostgreSQL · SQLAlchemy · Redis · Celery · Qdrant · LangChain · LangGraph · Ollama · Docker
-
-- Multi-node **LangGraph pipeline** that scores resume–JD match, identifies skill gaps, and generates role-specific interview questions with conditional routing by score tier
-- Resumes chunked and embedded locally via `sentence-transformers` into **Qdrant** with full RAG chat support
-- JWT auth with refresh token rotation, Redis write-through caching, Celery async task queue, metrics dashboard — containerised across **7 Docker services**
+</div>
 
 ---
 
-#### 📚 [AI Knowledge Assistant using RAG](https://github.com/manudevtyagi05/ai-knowledge-assistant)
-> FastAPI · LangChain · Hugging Face · FAISS · SQLite · Python
+## 💼 Experience
 
-- PDF-based RAG assistant with document loading, text chunking, HuggingFace embedding generation, and **FAISS-powered semantic vector search**
-- Citation-backed answers, document-level chat isolation, and conversation memory for follow-up questions
-- Clean REST APIs for upload, listing, chat, and history — fully documented with **Swagger / OpenAPI**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏥 ARCKAI — Backend Intern
+`Jul 2025 – Oct 2025` · On-site · Gurugram · Healthcare Tech
 
-### 💼 Experience
+- Built & maintained RESTful APIs for **EHR modules** — patients, orders, diagnostic reports
+- Implemented **Pydantic validation** and structured error handling for API consistency
+- Collaborated with frontend engineers on **React dashboard** integrations
 
-| Period | Role | Company |
-|---|---|---|
-| Jul 2025 – Oct 2025 | Backend Intern | **ARCKAI** · Healthcare Tech · Gurugram |
-| Apr 2025 – Jun 2025 | Tech Intern | **SabPaisa (SRS Live Technologies)** · FinTech · Remote |
+</td>
+<td width="50%" valign="top">
 
----
+### 💳 SabPaisa (SRS Live Technologies) — Tech Intern
+`Apr 2025 – Jun 2025` · Remote · FinTech
 
-### 📊 GitHub Stats
+- Built **Spring Boot** projects with layered architecture & DTO-based data transfer
+- Documented APIs using **Swagger / OpenAPI** for testing and consumer-facing specs
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manudevtyagi05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manudevtyagi05&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manudevtyagi05-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/manudevtyagi05)
-[![GitHub](https://img.shields.io/badge/GitHub-manudevtyagi05-181717?style=flat&logo=github)](https://github.com/manudevtyagi05)
-[![Email](https://img.shields.io/badge/Email-manudevtyagi1213@gmail.com-EA4335?style=flat&logo=gmail)](mailto:manudevtyagi1213@gmail.com)
+</td>
+</tr>
+</table>
 
 ---
 
-*Thanks for stopping by! 🚀*
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Job Application Tracker
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat&logo=github)](https://github.com/manudevtyagi05/ai-job-tracker)
+
+`FastAPI` `LangGraph` `LangChain` `Qdrant` `Redis` `Celery` `Docker` `PostgreSQL`
+
+- **Multi-node LangGraph pipeline** scores resume–JD match, identifies skill gaps & generates role-specific interview questions with conditional routing by score tier
+- Resumes embedded locally via `sentence-transformers` into **Qdrant** with full **RAG chat** support
+- JWT auth + refresh token rotation, **Redis write-through caching**, Celery async task queue, metrics dashboard
+- **7 Docker services** fully containerised
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 AI Knowledge Assistant (RAG)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat&logo=github)](https://github.com/manudevtyagi05/ai-knowledge-assistant)
+
+`FastAPI` `LangChain` `HuggingFace` `FAISS` `SQLite`
+
+- PDF-based RAG assistant with text chunking, **HuggingFace embeddings** & **FAISS semantic vector search**
+- **Citation-backed answers** and document-level chat isolation
+- Conversation memory for multi-turn follow-up questions
+- Clean REST APIs documented with **Swagger / OpenAPI**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manudevtyagi05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manudevtyagi05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manudevtyagi05&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manudevtyagi05)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-manudevtyagi1213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manudevtyagi1213@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-manudevtyagi05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manudevtyagi05)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
